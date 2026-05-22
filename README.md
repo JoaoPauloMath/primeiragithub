@@ -1,3 +1,3 @@
 # primeiragithub
 
-(Página Web)[https://joaopaulomath.github.io/primeiragithub/]
+[Página WEB](https://joaopaulomath.github.io/primeiragithub/)
